@@ -3,13 +3,16 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Deepak+Yadav.;Full+Stack-Web+Developer...:male-technologist::skin-tone-2:;" style="width: 100%;">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h1 align="center"> :innocent:(Hello everyone)" :wave:</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h3 align="center"> A passionate Full-Stack Developer from India </h3>
+
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+
 - :telescope: I’m currently working on **MySkill:smile:**
 - :seedling: I’m currently learning **Full-Stack Web Development**
 - :speech_balloon: Ask me about **Web Development**
-- :male-technologist: Some of my projects are available at a [My Portfolio](https://github.com/dpk915/dpk915.github.io)
--  :page_facing_up: Know about my experiences [My Resume](https://drive.google.com/file/d/1BJ7HaAbm61w6lYpXdaK2CrAacPlRZjGY/view?usp=sharing)
+- :male-technologist: [image](https://github.com/dpk915/dpk915/assets/54777923/757f6e89-2f29-493b-88b3-2c6cf745ec6e)
+ Some of my projects are available at a [My Portfolio](https://github.com/dpk915/dpk915.github.io)*
+- :page_facing_up: Know about my experiences [My Resume](https://drive.google.com/file/d/1BJ7HaAbm61w6lYpXdaK2CrAacPlRZjGY/view?usp=sharing)
 - :mailbox: How to reach me: yadavdpk915@gmail.com
 - :smile: Pronouns: ...@Deepak
 - :zap: Fun fact: ...Always smile:smile: in a tough situation
@@ -36,7 +39,7 @@
 <br>
 <h3 align="center">
   Visitor count <br><br>
-  <img  src="https://profile-counter.glitch.me/Ashish0076/count.svg" />
+  <img  src="https://profile-counter.glitch.me/dpk915/count.svg" />
 </h3>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -51,4 +54,4 @@ https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13
 (294 B)
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png
 
-(Not automatically expanded because 4 MB is too large. You can expand it anyway or open it in a new window.)
+
