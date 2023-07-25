@@ -10,7 +10,7 @@
 - :telescope: I’m currently working on **MySkill:smile:**
 - :seedling: I’m currently learning **Full-Stack Web Development**
 - :speech_balloon: Ask me about **Web Development**
-- :male-technologist: [image](https://github.com/dpk915/dpk915/assets/54777923/757f6e89-2f29-493b-88b3-2c6cf745ec6e)
+- :male_technologist: [image](https://github.com/dpk915/dpk915/assets/54777923/757f6e89-2f29-493b-88b3-2c6cf745ec6e)
  Some of my projects are available at a [My Portfolio](https://dpk915.github.io/)*
 - :page_facing_up: Know about my experiences [My Resume](https://drive.google.com/file/d/1BJ7HaAbm61w6lYpXdaK2CrAacPlRZjGY/view?usp=sharing)
 - :mailbox: How to reach me: yadavdpk915@gmail.com
